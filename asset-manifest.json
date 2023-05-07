@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Projeto-em-React/static/css/main.ae2bd439.css",
+    "main.js": "/Projeto-em-React/static/js/main.838c6a36.js",
+    "static/js/787.a618c441.chunk.js": "/Projeto-em-React/static/js/787.a618c441.chunk.js",
+    "static/media/imagemPerfil.jpg": "/Projeto-em-React/static/media/imagemPerfil.c1a7a5188210d3325179.jpg",
+    "static/media/avaliados.jpg": "/Projeto-em-React/static/media/avaliados.a8dc9cfb9ed775730d14.jpg",
+    "static/media/livro3.jpg": "/Projeto-em-React/static/media/livro3.72b7e98755f98c551a8f.jpg",
+    "static/media/livro1.jpg": "/Projeto-em-React/static/media/livro1.d4e41ea7c36f5cee9161.jpg",
+    "static/media/livro2.jpg": "/Projeto-em-React/static/media/livro2.2c387ec544bb29541089.jpg",
+    "static/media/desejados.jpg": "/Projeto-em-React/static/media/desejados.17aae7d367ce33351c7a.jpg",
+    "static/media/livro7.jpg": "/Projeto-em-React/static/media/livro7.331f0acffea476933960.jpg",
+    "static/media/resenhas.jpg": "/Projeto-em-React/static/media/resenhas.091be57afee17462f7e5.jpg",
+    "index.html": "/Projeto-em-React/index.html",
+    "main.ae2bd439.css.map": "/Projeto-em-React/static/css/main.ae2bd439.css.map",
+    "main.838c6a36.js.map": "/Projeto-em-React/static/js/main.838c6a36.js.map",
+    "787.a618c441.chunk.js.map": "/Projeto-em-React/static/js/787.a618c441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae2bd439.css",
+    "static/js/main.838c6a36.js"
+  ]
+}
