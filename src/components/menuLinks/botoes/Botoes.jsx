@@ -10,7 +10,7 @@ function BotoesLinks(){
     
           <ul>
           <li>
-              <Link to="/projeto-em-React">
+              <Link to="/Projeto-em-React">
                 <button>{<FaHome/>} Home </button>
               </Link>
             </li>
