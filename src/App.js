@@ -32,7 +32,7 @@ function App() {
 
       <Routes>
             <Route path='/' element={<Estante titulo="Minha Estante"/>} />
-            <Route path='/projeto-com-React' element={<Estante titulo="Minha Estante"/>} />
+            <Route path='/Projeto-em-React' element={<Estante titulo="Minha Estante"/>} />
             <Route path='/favoritos' element={<Favoritos/>} />
             <Route path='/desejados' element={<Desejados/>} />
             <Route path='/avaliados' element={<Avaliados/>} />

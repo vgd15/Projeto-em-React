@@ -16,7 +16,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://vgd15.github.io/Projeto-com-React",
+  "homepage": "https://vgd15.github.io/Projeto-em-React",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
