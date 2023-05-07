@@ -1,0 +1,46 @@
+
+
+.menu{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+margin-left: 80px;
+
+}
+
+
+.linha{
+    margin: 30px 150px;  
+}
+
+.container{
+ display: flex;
+
+}
+
+
+.coluna1{
+  display: flex;
+}
+.coluna2{
+  display: flex;
+  flex-direction: ;
+}
+
+.livros-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.avaliacao{
+  margin-top: 3px;
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+
+
+
+
+

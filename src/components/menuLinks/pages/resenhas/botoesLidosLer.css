@@ -1,0 +1,12 @@
+.botaolidos{
+ background-color: rgb(245, 213, 252);
+}
+
+.botaoler{
+background-color: rgb(245, 213, 252);
+}
+
+.botaosGeral{
+display: flex;
+flex-direction: row;
+}

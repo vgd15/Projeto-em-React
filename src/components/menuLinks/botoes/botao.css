@@ -1,0 +1,27 @@
+.botoesLinks button { 
+    width:140px;
+    border: none;
+    background-color: rgb(245, 213, 252);
+    margin-top: 15px;
+    margin-left: 200px;
+    margin-right: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 7px;
+  }
+
+  li{
+    list-style: none;
+}
+
+button:hover {
+    transform: scale(0.95);
+  }
+
+.botoesLinks{
+    margin-top: 100px;
+}

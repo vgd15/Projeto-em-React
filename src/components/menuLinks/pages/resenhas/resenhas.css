@@ -1,0 +1,11 @@
+.Resenha{
+    display: flex;
+    flex-direction: column;
+}
+.cardsResenha{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 120px;
+    margin-top: 80px;
+}
